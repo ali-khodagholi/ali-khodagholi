@@ -7,6 +7,13 @@
 - :envelope: Feel free to contact me at: akhodagholi1@gmail.com
 
 
+### 🖥 Skills
+
+- Optimizaion and Simulation
+- Remote Sensing
+- Crop Simulation Models
+- Climate Change
+
 <div>
   <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ali-khodagholi&show_icons=true&locale=en&layout=compact" alt="Ali Khodagholi" />
   <img width="45%"  src="https://github-readme-streak-stats.herokuapp.com/?user=ali-khodagholi&" alt="Ali Khodagholi" />
