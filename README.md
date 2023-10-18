@@ -5,7 +5,6 @@
 - I’m currently working on simulation and optimization water systems.
 - 💻 Interested in hydrology modeling.
 - :envelope: Feel free to contact me at: akhodagholi1@gmail.com
-- :book: Currently reading [linear algebra and learning from data](https://math.mit.edu/~gs/learningfromdata/). Check this out if interested.
 
 
 <div>
